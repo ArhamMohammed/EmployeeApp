@@ -1,1 +1,1 @@
-Just a developer trying to implemnet Spring + Angular through online platforms.
+Just a developer trying to implement Spring + Angular through online platforms.
